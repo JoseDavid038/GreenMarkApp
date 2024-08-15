@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="green_buttons">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:backgroundTint">#31955C</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:paddingHorizontal">120dp</item>
+        <item name="android:text">@string/login_title</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/roboto_black</item>
+    </style>
+
+    <style name="blue_texts">
+        <item name="android:textColor">#1C65BA</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/roboto_black</item>
+
+    </style>
+
+</resources>

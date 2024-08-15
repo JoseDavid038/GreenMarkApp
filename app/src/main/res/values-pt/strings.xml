@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GreenMark</string>
+    <string name="skip">Pular</string>
+    <string name="welcome">Bem-vindo</string>
+    <string name="welcome_paragraph">Descubra, reduza e gerencie sua pegada de carbono para um amanhã melhor.</string>
+    <string name="welcome_button">Vamos começar</string>
+    <string name="login_title">Entrar</string>
+    <string name="google_button">Continuar com Google</string>
+    <string name="apple_button">Continuar com Apple</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="forget_password">Esqueceu sua senha?</string>
+    <string name="without_account">Não tem uma conta?</string>
+    <string name="register">Registrar-se</string>
+    <string name="name">Nome</string>
+    <string name="confirm_password">Confirmar senha</string>
+    <string name="phone">Telefone</string>
+    <string name="register_button">Registrar-se</string>
+    <string name="with_account">Já tem uma conta?</string>
+    <string name="greeting">Olá</string>
+    <string name="greeting_message">Você deu um grande passo pelo seu planeta</string>
+    <string name="research">Pesquisar por palavra-chave</string>
+    <string name="carbon_emissions">Fontes de emissões de carbono</string>
+    <string name="see_all">Ver tudo</string>
+    <string name="news">Notícias</string>
+    <string name="characters">Personagens</string>
+    <string name="transport">Transporte</string>
+    <string name="feeding">Alimentação</string>
+    <string name="energy">Energia</string>
+    <string name="residues">Resíduos</string>
+
+</resources>

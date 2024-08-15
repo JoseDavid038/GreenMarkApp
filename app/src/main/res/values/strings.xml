@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GreenMark</string>
+    <string name="skip">Skip</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_paragraph">Discover, reduce and manage your carbon footprint for a better tomorrow.</string>
+    <string name="welcome_button">Let\'s get started</string>
+    <string name="login_title">Sign in</string>
+    <string name="google_button">Continue with Google</string>
+    <string name="apple_button">Continue with Apple</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forgot your password?</string>
+    <string name="without_account">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="phone">Phone</string>
+    <string name="register_button">Register</string>
+    <string name="with_account">Already have an account?</string>
+    <string name="greeting">Hello</string>
+    <string name="greeting_message">You\'ve taken a big step for your planet</string>
+    <string name="research">Search by keyword</string>
+    <string name="carbon_emissions">Carbon emissions sources</string>
+    <string name="see_all">See all</string>
+    <string name="news">News</string>
+    <string name="characters">Characters</string>
+    <string name="transport">Transport</string>
+    <string name="feeding">Feeding</string>
+    <string name="energy">Energy</string>
+    <string name="residues">Residues</string>
+</resources>
